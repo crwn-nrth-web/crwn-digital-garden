@@ -11,10 +11,11 @@ Like any archive, this space is organized into collections, such as:
 - **Physics & Astronomy** — coursework notes, research curiosities
 - **Philosophy** — metaphysics, epistemology, philosophy of mind
 - **History & Classics** — Greek antiquity, thoughts on epic poems like Homer's
-- **Methods & Tools** — zettelkasten experiments, workflows, and reflections on learning
 
 This archive is about exploring ideas as they grow. New entries will be catalogued, and older ones might get revised, linked, or expanded. Think of it as browsing the stacks with me: you might find a half-finished note, a messy margin, or a fully developed thought.
- 
+
+### Navigation
+
 
 
 

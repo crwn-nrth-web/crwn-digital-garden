@@ -20,9 +20,9 @@ Start anywhere! Browse the tags, click links, or explore randomly. It's up to yo
 Some tags to get you started:
 
 #### Recent additions
-| File                                                          | Last modified      | Tags                        |
-| ------------------------------------------------------------- | ------------------ | --------------------------- |
-| [[Welcome to Crown's Archive\|Welcome to Crown's Archive]] | 10.09.2025 - 17:51 | <ul><li>#archived</li></ul> |
+| File                                                          | Last modified      | Tags                                             |
+| ------------------------------------------------------------- | ------------------ | ------------------------------------------------ |
+| [[Welcome to Crown's Archive\|Welcome to Crown's Archive]] | 10.09.2025 - 18:03 | <ul><li>#archived</li><li>#gardenEntry</li></ul> |
 
 { .block-language-dataview}
 
